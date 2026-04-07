@@ -28,3 +28,9 @@ cp Beacon/Services/Secrets.example.plist Beacon/Services/Secrets.plist
 - Xcode 15+
 - iOS 17+
 
+
+## Demo av appen
+https://github.com/user-attachments/assets/db1c97f2-fdd6-4a98-ac74-859f1f5d3bad
+
+
+
