@@ -5,6 +5,9 @@ PG5602 iOS programmering eksamen 2025
 
 En iOS-app for å utforske og lagre kafeer, hoteller og kafeer i nærheten.
 
+## Demo av appen
+https://github.com/user-attachments/assets/db1c97f2-fdd6-4a98-ac74-859f1f5d3bad
+
 ## Oppsett
 
 ### 1. Klone prosjektet
@@ -27,10 +30,6 @@ cp Beacon/Services/Secrets.example.plist Beacon/Services/Secrets.plist
 ## Krav
 - Xcode 15+
 - iOS 17+
-
-
-## Demo av appen
-https://github.com/user-attachments/assets/db1c97f2-fdd6-4a98-ac74-859f1f5d3bad
 
 
 
